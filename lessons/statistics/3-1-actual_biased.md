@@ -37,7 +37,7 @@ __Step 5:__ Plot both actual pmf and biased pmf as a step function
     thinkplot.Pmfs([pmf, biased_pmf])
     thinkplot.Show(xlabel='number of children',ylabel='probabiltiy')    
 
-Output: ![Step Function](/Desktop/3_1_biased.png)
+Output: ![Step Function](statistics/3_1_biased.png)
 
 __Step 6:__ Plot both actual pmf and biased pmf as a step function
 

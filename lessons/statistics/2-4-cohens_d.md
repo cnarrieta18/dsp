@@ -6,6 +6,7 @@ Using the variable __`totalwgt_lb`__,investigate whether first babies are lighte
 __Step 1:__ Import necessary modules
     
     import thinkstat2
+    import thinkplot
     import nsfg
 
 __Step 2:__ Load data while filtering for only LIVE BIRTH (outcome=1)

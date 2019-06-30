@@ -8,6 +8,7 @@ Generate 1000 numbers from `numpy.random.random` and plot their __PMF__ and __CD
 __Step 1:__ Import necessary modules
     
     import thinkstat2
+    import thinkplot
     import nsfg
     import numpy as np
     

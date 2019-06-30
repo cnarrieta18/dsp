@@ -12,6 +12,7 @@ Plot the actual and biased distributions, and compute their means.
 __Step 1:__ Import necessary modules
     
     import thinkstat2
+    import thinkplot
     import nsfg
     import probability
 

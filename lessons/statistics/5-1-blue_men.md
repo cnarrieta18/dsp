@@ -46,11 +46,11 @@ Output: `[177.8, 185.42]`
 
 __Step 6:__ Calculate percentage of the U.S. male population in this range
 
-    bottom = dist.cdf(height_range_cm[1]) 
-    top = dist.cdf(height_range_cm[0])
-    bottom-top
+    top = dist.cdf(height_range_cm[1]) 
+    bottom = dist.cdf(height_range_cm[0])
+    print(top,bottom,top-bottom)
 
-Output: `0.34323087643654097`
+Output: `0.829482582277679 0.48625170584113814 0.3432308764365409`
 
 ## Conclusion
 34% of the U.S. male population is within the height range [5'10",6'1]

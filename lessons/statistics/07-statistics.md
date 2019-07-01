@@ -108,7 +108,11 @@ Solving for our equation above yields a 5/17 (~__29%__) probabilty that Elvis wa
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+__Answer:__
+
+Frequentist: The probabilty derived represents the analyses of the frequency ("repetition") in a data set.
+
+Bayesian: The probability derived represents the degree of confidence that an event occurs.
 
 ---
 
